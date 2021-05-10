@@ -1,6 +1,6 @@
 {
   "name": "sleepless-mailer",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Simple mailing system for AWS SES",
   "author": "Joe Hitchens <joe@sleepless.com> (sleepless.com)",
   "repository": {
