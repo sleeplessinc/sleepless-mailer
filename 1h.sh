@@ -4,7 +4,6 @@
 
 source /home/mike/.bashrc &> /dev/null
 
-
 cd /home/mike/mailer 
 /usr/local/bin/node mailer.js &> log.txt &
 
